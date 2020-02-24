@@ -109,7 +109,7 @@ p { margin-top: 0; line-height: 2; }
 
 .fullwidth-block { padding: 50px 0; }
 
-[data-bg-image] { background-size: cover; background-repeat: no-repeat; }
+[data-bg-image] { background-size: cover; background-repeat: no-repeat; background-position: center;}
 
 .button { color: white; display: inline-block; padding: 10px 20px; border: 2px solid white; border-radius: 3px; font-family: "Roboto Condensed", "Open Sans", sans-serif; line-height: 1; }
 
