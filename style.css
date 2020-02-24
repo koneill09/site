@@ -128,7 +128,7 @@ p { margin-top: 0; line-height: 2; }
 @media screen and (max-width: 480px) { .milestone header { float: none; display: block; margin-bottom: 30px; } }
 .milestone header .year { font-size: 20px; font-size: 1.2em; margin: 0; }
 .milestone header .desc { font-size: 13px; font-size: 1.3em; margin-bottom: 10px; line-height: 1; font-weight: bold;}
-.milestone header strong { color: #8dceb2; font-size: 2.0em; }
+.milestone header strong { color: #8dceb2; font-size: 1.7em; }
 .milestone .milestone-content { line-height: 1.8; display: table; }
 
 .education { min-height: 100px; *zoom: 1; padding-bottom: 30px; margin-bottom: 40px; border-bottom: 1px solid #ccc; }
@@ -137,7 +137,7 @@ p { margin-top: 0; line-height: 2; }
 @media screen and (max-width: 480px) { .milestone header { float: none; display: block; margin-bottom: 30px; } }
 .education header .year { font-size: 20px; font-size: 1.5em; margin: 0; }
 .education header .desc { font-size: 13px; font-size: 0.86667em; margin-bottom: 10px; line-height: 1; }
-.education header strong { color: #8dceb2; font-size: 2.0em; }
+.education header strong { color: #8dceb2; font-size: 1.7em; }
 .education .education-content { line-height: 1.8; display: table; }
 
 .package { border: 2px solid white; border-radius: 5px; padding: 30px; text-align: center; color: white; margin-bottom: 30px; }
